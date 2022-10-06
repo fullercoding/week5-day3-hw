@@ -1,0 +1,49 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://gpoprcas:qMb7a0mOkkKbVUO_Q1BFI9iS-u4KLWQb@jelani.db.elephantsql.com/gpoprcas",
+            "name": "DvD_Connor_Database"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "day-1-hw",
+            "connectString": "postgres://gpoprcas:qMb7a0mOkkKbVUO_Q1BFI9iS-u4KLWQb@jelani.db.elephantsql.com/gpoprcas"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://iarekkgc:pyLri9zkjf8NYs0djCNBD3zVGGx8jpFF@jelani.db.elephantsql.com/iarekkgc",
+            "name": "MockShop"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "week5-day2-hw",
+            "connectString": "postgres://ymfosdjy:oL3biuS5yQUGm_LpJtwJWXHGo_ElF9Z4@jelani.db.elephantsql.com/ymfosdjy"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "Presidents",
+            "connectString": "postgres://bontbjru:qSQ0kQzRc2vZIC1aLzkfphZ9iMh8Y321@jelani.db.elephantsql.com/bontbjru"
+        }
+    ]
+}
